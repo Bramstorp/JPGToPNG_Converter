@@ -9,7 +9,7 @@ Pokedex is the .jpg test files u can convert
 
 --Running Script--
 
-1: To run the script open a the terminal and CD to the JPGtoPNG folder (Desktop\JPGtoPNG)
+1: To run the script open a terminal and CD to the JPGtoPNG folder (Desktop\JPGtoPNG)
 
 2: type in the terminal: Python JPGtoPNGconverter.py Pokedex/ New/
 
